@@ -1,6 +1,6 @@
 # Resume red flags
 
-The red flags listed below should be avoided in the resume and noted with an alternative version for replacement.
+The red flags listed below should be used to avoid this red flag in the resume and noted with an alternative version for replacement.
 
 ## General red flags that sink any resume
 
