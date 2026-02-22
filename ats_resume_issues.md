@@ -47,3 +47,6 @@ The list of ATS issues below should be used to avoided this mistakes in the resu
 - Justified text alignment can create inconsistent spacing that’s misread by parsers.
 - Hidden formatting characters from copy/paste or templates — invisible characters confuse parsing.
 - Incorrect or unclear job titles — if your title doesn’t align with industry keywords, ATS may fail to match.
+
+## Character use
+- Avoid using Em dashes (—), always use a hyphen (-) instead.
