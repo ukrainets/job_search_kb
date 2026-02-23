@@ -50,3 +50,13 @@ The list of ATS issues below should be used to avoided this mistakes in the resu
 
 ## Character use
 - Avoid using Em dashes (—), always use a hyphen (-) instead.
+
+## Extra ATS knowledge
+MYTH: "Use exact keywords from the job posting"
+REALITY: Modern ATS systems understand synonyms. "Project management" = "managing projects." Focus on natural language.
+
+MYTH: "Avoid tables and columns"
+REALITY: Most ATS can handle simple formatting now. What breaks them: headers/footers, text boxes, and images with text.
+
+MYTH: "ATS auto-rejects based on keyword match"
+REALITY: ATS ranks and sorts—humans still make decisions. A 70% match that gets read beats a 95% match no one opens.
